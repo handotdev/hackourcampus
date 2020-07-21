@@ -2020,8 +2020,7 @@ body.single-post #page_content_wrapper, body.single-attachment #page_content_wra
 
 #page_content_wrapper img, .page_content_wrapper img
 {
-	max-width: 100%;
-	height: auto;
+	width: 100%;
 }
 
 #page_content_wrapper .map_shortcode_wrapper img, .page_content_wrapper .map_shortcode_wrapper img
