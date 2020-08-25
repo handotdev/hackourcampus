@@ -1,5 +1,17 @@
 {
   "projects": {
     "default": "hack-our-campus"
+  },
+  "targets": {
+    "hack-our-campus": {
+      "hosting": {
+        "prod": [
+          "hack-our-campus"
+        ],
+        "test": [
+          "testing-hoc"
+        ]
+      }
+    }
   }
 }
